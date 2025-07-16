@@ -39,8 +39,8 @@
                <scoreDef xml:id="sshg4bs" ending.rend="top" optimize="true" spacing.staff="20.000000vu">
                   <pgHead xml:id="phkhi471" func="first">
                      <rend xml:id="rul98vn2" fontsize="300%" fontweight="bold" halign="center" valign="top">Vergnügungszug</rend>
-                     <rend xml:id="r92o6rk1" fontsize="130%" halign="center">Op. 281</rend>
-                     <rend xml:id="r3utxoc" fontsize="150%" halign="right">Johann Strauss (Sohn)</rend>
+                     <rend xml:id="r92o6rk1" fontsize="200%" halign="center">Polka schnell</rend>
+                     <rend xml:id="r3utxoc" fontsize="150%" halign="right">Johann Strauss (Sohn), Op. 281</rend>
                   </pgHead>
                   <pgFoot xml:id="psm1hw4"/>
                   <staffGrp xml:id="suzh8ck">

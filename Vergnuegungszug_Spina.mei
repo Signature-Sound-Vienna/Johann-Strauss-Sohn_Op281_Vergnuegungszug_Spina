@@ -25,7 +25,7 @@
                <name xml:id="name-8zuoh1">Verovio</name>
                <p xml:id="p-76wi0p">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="aghyxsm1" enddate="2025-07-16T14:59:03" startdate="2023-05-05T11:47:03" version="1.2.6">
+            <application xml:id="aghyxsm1" enddate="2025-07-16T15:00:51" startdate="2023-05-05T11:47:03" version="1.2.6">
                <name xml:id="nrp3hgj2">mei-friend</name>
                <p xml:id="pzsnecc">First edit by mei-friend 0.8.9, 14 April 2023.</p>
             </application>
@@ -37,12 +37,12 @@
          <mdiv xml:id="mim8aq5">
             <score xml:id="s3zkl02">
                <scoreDef xml:id="sshg4bs" ending.rend="top" optimize="true" spacing.staff="20.000000vu">
-                  <pgHead xml:id="phkhi471">
-                     <rend xml:id="rul98vn2" fontsize="200%" fontweight="bold" halign="center" valign="top">Vergnügungszug</rend>
+                  <pgHead xml:id="phkhi471" func="first">
+                     <rend xml:id="rul98vn2" fontsize="300%" fontweight="bold" halign="center" valign="top">Vergnügungszug</rend>
                      <rend xml:id="r92o6rk1" fontsize="130%" halign="center">Op. 281</rend>
                      <rend xml:id="r3utxoc" fontsize="150%" halign="right">Johann Strauss (Sohn)</rend>
                   </pgHead>
-                  <pgFoot></pgFoot>
+                  <pgFoot xml:id="psm1hw4"/>
                   <staffGrp xml:id="suzh8ck">
                      <staffGrp xml:id="s48s2v4" bar.thru="true">
                         <grpSym xml:id="gwh0qpl" symbol="bracket"/>

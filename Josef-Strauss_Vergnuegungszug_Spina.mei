@@ -10002,6 +10002,12 @@
                               <rend xml:id="rlj2cb4" fontfam="smufl" fontsize="170.00%" fontstyle="normal" halign="right">𝄌</rend>
                            </dir>
                         </measure>
+                        <pb xml:id="pn6yyhz"/>
+                     </section>
+                  </section>
+                  <section xml:id="Trio">
+                     <expansion xml:id="Trio-withRep" plist="#Trio-Intro #Trio-A #Trio-A #Trio-Ueberleitung #Trio-B #Trio-B-ending1 #Trio-B #Trio-B-ending2"/>
+                     <section xml:id="Trio-Intro">
                         <scoreDef xml:id="stduuyv">
                            <staffGrp xml:id="slxm8al">
                               <staffDef xml:id="sag9ji6" n="1">
@@ -10062,13 +10068,7 @@
                                  <keySig xml:id="k1togw9n" sig="3s"/>
                               </staffDef>
                            </staffGrp>
-                        </scoreDef>
-                        <pb xml:id="pn6yyhz"/>
-                     </section>
-                  </section>
-                  <section xml:id="Trio">
-                     <expansion xml:id="Trio-withRep" plist="#Trio-Intro #Trio-A #Trio-A #Trio-Ueberleitung #Trio-B #Trio-B-ending1 #Trio-B #Trio-B-ending2"/>
-                     <section xml:id="Trio-Intro">
+                        </scoreDef> 
                         <measure xml:id="mnwvg2l" n="53">
                            <staff xml:id="so2hrjd" n="1">
                               <layer xml:id="l9ba9z5" n="1">
@@ -18182,6 +18182,9 @@
                            </dir>
                         </measure>
                      </ending>
+                     <pb xml:id="ptdds5o"/>
+                  </section>
+                  <section xml:id="Schluss">
                      <scoreDef xml:id="s10dq72">
                         <staffGrp xml:id="scn9kgm">
                            <staffDef xml:id="svh33ly" n="1">
@@ -18243,9 +18246,6 @@
                            </staffDef>
                         </staffGrp>
                      </scoreDef>
-                     <pb xml:id="ptdds5o"/>
-                  </section>
-                  <section xml:id="Schluss">
                      <measure xml:id="m6b3zcq" n="99">
                         <staff xml:id="s3kufgk" n="1">
                            <layer xml:id="lnuu6so" n="1">
